@@ -1,0 +1,10 @@
+.container{
+    margin-bottom: 100px;
+}
+
+.buy-now{
+    border-radius: 10px;
+    background-image: linear-gradient(30deg,black,black);
+    color: white;
+    padding: 10px;
+}
